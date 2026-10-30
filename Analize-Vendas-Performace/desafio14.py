@@ -1,4 +1,3 @@
-# Passo 1: Definimos a nossa média de referência estável
 media_referencia = 1000.0
 
 # Passo 2: Recebemos a produção do dia atual
